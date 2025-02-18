@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gil Passos Coelho Neto
+Matricula: 885240
 
 ## Tela de inspeção com navegador
-
+![Image](https://github.com/user-attachments/assets/88572076-d8c2-43c5-9de5-200fb1271848)
 
 ## Tela de projeto no Replit
-
+![Image](https://github.com/user-attachments/assets/cf799b35-b692-4c04-8193-749dae75d0df)
